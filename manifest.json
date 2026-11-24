@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "jlc.radial-dock",
+  "name": "Radial Dock",
+  "version": "1.0.0",
+  "author": "John Copenhaver",
+  "license": "MIT",
+  "description": "Omarchy's dock, with the app grid button opening the Radial Menu's Apps ring",
+  "kinds": [
+    "service"
+  ],
+  "entryPoints": {
+    "service": "Dock.qml"
+  },
+  "omarchy": {
+    "clonedFrom": "omarchy.dock"
+  }
+}
