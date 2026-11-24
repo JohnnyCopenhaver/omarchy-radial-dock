@@ -1,12 +1,18 @@
 # Radial Dock
 
+![The Radial Menu's Apps ring opened from the dock](preview.png)
+
 Omarchy's dock, with one change: the app grid button (and **Super + Alt + Space**) opens the
 [Radial Menu](https://github.com/JohnnyCopenhaver/omarchy-radial-menu)'s Apps ring instead of the
 flat app grid. Pinned apps, running apps, drag to reorder, auto-hide and dock position all work
 the same as the built-in dock.
 
+![Radial Dock: the app grid button on the left, then pinned apps](docs/dock.png)
+
 In the Apps ring, right-click an app (or press Menu / Shift+F10) for **Keep in Dock** or
 **Remove from Dock**.
+
+![Keep in Dock in an app's options in the Apps ring](docs/keep-in-dock.png)
 
 ## Requirements
 
